@@ -1,0 +1,667 @@
+{
+  "States": [
+    {
+      "Alabama": [
+        {
+          "Capital": "Montgomery"
+        },
+        {
+          "State Bird": "Yellowhammer"
+        },
+        {
+          "State Flower": "Camellia"
+        }
+      ]
+    },
+    {
+      "Alaska": [
+        {
+          "Capital": "Juneau"
+        },
+        {
+          "State Bird": "Willow Ptarmigan"
+        },
+        {
+          "State Flower": "Forget Me Not"
+        }
+      ]
+    },
+    {
+      "Arizona": [
+        {
+          "Capital": "Phoenix"
+        },
+        {
+          "State Bird": "Cactus Wren"
+        },
+        {
+          "State Flower": "Saguaro Cactus Blossom"
+        }
+      ]
+    },
+    {
+      "Arkansas": [
+        {
+          "Capital": "Little Rock"
+        },
+        {
+          "State Bird": "Mockingbird"
+        },
+        {
+          "State Flower": "Apple Blossom"
+        }
+      ]
+    },
+    {
+      "California": [
+        {
+          "Capital": "Sacramento"
+        },
+        {
+          "State Bird": "California Valley Quail"
+        },
+        {
+          "State Flower": "California Poppy"
+        }
+      ]
+    },
+    {
+      "Colorado": [
+        {
+          "Capital": "Denver"
+        },
+        {
+          "State Bird": "Lark Bunting"
+        },
+        {
+          "State Flower": "White and Lavender Columbine"
+        }
+      ]
+    },
+    {
+      "Connecticut": [
+        {
+          "Capital": "Hartford"
+        },
+        {
+          "State Bird": "Robin"
+        },
+        {
+          "State Flower": "Mountain Laurel"
+        }
+      ]
+    },
+    {
+      "Delaware": [
+        {
+          "Capital": "Dover"
+        },
+        {
+          "State Bird": "Blue Hen"
+        },
+        {
+          "State Flower": "Peach Blossom"
+        }
+      ]
+    },
+    {
+      "Florida": [
+        {
+          "Capital": "Tallahassee"
+        },
+        {
+          "State Bird": "Mockingbird"
+        },
+        {
+          "State Flower": "Orange Blossom"
+        }
+      ]
+    },
+    {
+      "Georgia": [
+        {
+          "Capital": "Atlanta"
+        },
+        {
+          "State Bird": "Brown Thrasher"
+        },
+        {
+          "State Flower": "Cherokee Rose"
+        }
+      ]
+    },
+    {
+      "Hawaii": [
+        {
+          "Capital": "Honolulu"
+        },
+        {
+          "State Bird": "Nene"
+        },
+        {
+          "State Flower": "Hibiscus"
+        }
+      ]
+    },
+    {
+      "Idaho": [
+        {
+          "Capital": "Boise"
+        },
+        {
+          "State Bird": "Mountain Bluebird"
+        },
+        {
+          "State Flower": "Syringa"
+        }
+      ]
+    },
+    {
+      "Illinois": [
+        {
+          "Capital": "Springfield"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Purple Violet"
+        }
+      ]
+    },
+    {
+      "Indiana": [
+        {
+          "Capital": "Indianapolis"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Peony"
+        }
+      ]
+    },
+    {
+      "Iowa": [
+        {
+          "Capital": "Des Moines"
+        },
+        {
+          "State Bird": "Eastern Goldfinch"
+        },
+        {
+          "State Flower": "Wild Prairie Rose"
+        }
+      ]
+    },
+    {
+      "Kansas": [
+        {
+          "Capital": "Topeka"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Sunflower"
+        }
+      ]
+    },
+    {
+      "Kentucky": [
+        {
+          "Capital": "Frankfort"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Goldenrod"
+        }
+      ]
+    },
+    {
+      "Louisiana": [
+        {
+          "Capital": "Baton Rouge"
+        },
+        {
+          "State Bird": "Eastern Brown Pelican"
+        },
+        {
+          "State Flower": "Magnolia"
+        }
+      ]
+    },
+    {
+      "Maine": [
+        {
+          "Capital": "Augusta"
+        },
+        {
+          "State Bird": "Chickadee"
+        },
+        {
+          "State Flower": "White Pine Cone and Tassel"
+        }
+      ]
+    },
+    {
+      "Maryland": [
+        {
+          "Capital": "Annapolis"
+        },
+        {
+          "State Bird": "Baltimore Oriole"
+        },
+        {
+          "State Flower": "Black-Eyed Susan"
+        }
+      ]
+    },
+    {
+      "Massachusetts": [
+        {
+          "Capital": "Boston"
+        },
+        {
+          "State Bird": "Chickadee"
+        },
+        {
+          "State Flower": "Mayflower"
+        }
+      ]
+    },
+    {
+      "Michigan": [
+        {
+          "Capital": "Lansing"
+        },
+        {
+          "State Bird": "Robin"
+        },
+        {
+          "State Flower": "Apple Blossom"
+        }
+      ]
+    },
+    {
+      "Minnesota": [
+        {
+          "Capital": "St. Paul"
+        },
+        {
+          "State Bird": "Common Loon"
+        },
+        {
+          "State Flower": "Pink and White Lady Slipper"
+        }
+      ]
+    },
+    {
+      "Mississippi": [
+        {
+          "Capital": "Jackson"
+        },
+        {
+          "State Bird": "Mockingbird"
+        },
+        {
+          "State Flower": "Magnolia"
+        }
+      ]
+    },
+    {
+      "Missouri": [
+        {
+          "Capital": "Jefferson City"
+        },
+        {
+          "State Bird": "Bluebird"
+        },
+        {
+          "State Flower": "White Hawthorn Blossom"
+        }
+      ]
+    },
+    {
+      "Montana": [
+        {
+          "Capital": "Helena"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Bitterroot"
+        }
+      ]
+    },
+    {
+      "Nebraska": [
+        {
+          "Capital": "Lincoln"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Goldenrod"
+        }
+      ]
+    },
+    {
+      "Nevada": [
+        {
+          "Capital": "Carson City"
+        },
+        {
+          "State Bird": "Mountain Bluebird"
+        },
+        {
+          "State Flower": "Sagebrush"
+        }
+      ]
+    },
+    {
+      "New Hampshire": [
+        {
+          "Capital": "Concord"
+        },
+        {
+          "State Bird": "Purple Finch"
+        },
+        {
+          "State Flower": "Purple Lilac"
+        }
+      ]
+    },
+    {
+      "New Jersey": [
+        {
+          "Capital": "Trenton"
+        },
+        {
+          "State Bird": "Eastern Goldfinch"
+        },
+        {
+          "State Flower": "Violet"
+        }
+      ]
+    },
+    {
+      "New Mexico": [
+        {
+          "Capital": "Santa Fe"
+        },
+        {
+          "State Bird": "Roadrunner"
+        },
+        {
+          "State Flower": "Yucca Flower"
+        }
+      ]
+    },
+    {
+      "New York": [
+        {
+          "Capital": "Albany"
+        },
+        {
+          "State Bird": "Bluebird"
+        },
+        {
+          "State Flower": "Rose"
+        }
+      ]
+    },
+    {
+      "North Carolina": [
+        {
+          "Capital": "Raleigh"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Dogwood"
+        }
+      ]
+    },
+    {
+      "Ohio": [
+        {
+          "Capital": "Columbus"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Scarlet Carnation"
+        }
+      ]
+    },
+    {
+      "Oklahoma": [
+        {
+          "Capital": "Oklahoma City"
+        },
+        {
+          "State Bird": "Scissor-Tailed Flycatcher"
+        },
+        {
+          "State Flower": "Mistletoe"
+        }
+      ]
+    },
+    {
+      "Oregon": [
+        {
+          "Capital": "Salem"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Oregon Grape"
+        }
+      ]
+    },
+    {
+      "Pennsylvania": [
+        {
+          "Capital": "Harrisburg"
+        },
+        {
+          "State Bird": "Ruffed Grouse"
+        },
+        {
+          "State Flower": "Mountain Laurel"
+        }
+      ]
+    },
+    {
+      "Rhode Island": [
+        {
+          "Capital": "Providence"
+        },
+        {
+          "State Bird": "Rhode Island Red"
+        },
+        {
+          "State Flower": "Violet"
+        }
+      ]
+    },
+    {
+      "South Carolina": [
+        {
+          "Capital": "Columbia"
+        },
+        {
+          "State Bird": "Great Carolina Wren"
+        },
+        {
+          "State Flower": "Yellow Jessamine"
+        }
+      ]
+    },
+    {
+      "North Dakota": [
+        {
+          "Capital": "Bismarck"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Wild Prairie Rose"
+        }
+      ]
+    },
+    {
+      "South Dakota": [
+        {
+          "Capital": "Pierre"
+        },
+        {
+          "State Bird": "Ring-Necked Pheasant"
+        },
+        {
+          "State Flower": "Pasque Flower"
+        }
+      ]
+    },
+    {
+      "Tennessee": [
+        {
+          "Capital": "Nashville"
+        },
+        {
+          "State Bird": "Mockingbird"
+        },
+        {
+          "State Flower": "Iris"
+        }
+      ]
+    },
+    {
+      "Texas": [
+        {
+          "Capital": "Austin"
+        },
+        {
+          "State Bird": "Bluebird"
+        },
+        {
+          "State Flower": "Bluebonnet"
+        }
+      ]
+    },
+    {
+      "Utah": [
+        {
+          "Capital": "Salt Lake City"
+        },
+        {
+          "State Bird": "California Seagull"
+        },
+        {
+          "State Flower": "Sego Lily"
+        }
+      ]
+    },
+    {
+      "Tennessee": [
+        {
+          "Capital": "Nashville"
+        },
+        {
+          "State Bird": "Mockingbird"
+        },
+        {
+          "State Flower": "Iris"
+        }
+      ]
+    },
+    {
+      "Vermont": [
+        {
+          "Capital": "Montpelier"
+        },
+        {
+          "State Bird": "Hermit Thrush"
+        },
+        {
+          "State Flower": "Red Clover"
+        }
+      ]
+    },
+    {
+      "Virginia": [
+        {
+          "Capital": "Richmond"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Dogwood"
+        }
+      ]
+    },
+    {
+      "Washington": [
+        {
+          "Capital": "Olympia"
+        },
+        {
+          "State Bird": "Willow Goldfinch"
+        },
+        {
+          "State Flower": "Pink Rhododendron"
+        }
+      ]
+    },
+    {
+      "West Virginia": [
+        {
+          "Capital": "Charleston"
+        },
+        {
+          "State Bird": "Cardinal"
+        },
+        {
+          "State Flower": "Rhododendron"
+        }
+      ]
+    },
+    {
+      "Wisconsin": [
+        {
+          "Capital": "Madison"
+        },
+        {
+          "State Bird": "Robin"
+        },
+        {
+          "State Flower": "Wood Violet"
+        }
+      ]
+    },
+    {
+      "Wyoming": [
+        {
+          "Capital": "Cheyenne"
+        },
+        {
+          "State Bird": "Western Meadowlark"
+        },
+        {
+          "State Flower": "Indian Paintbrush"
+        }
+      ]
+    }
+  ]
+}
